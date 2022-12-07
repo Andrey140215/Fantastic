@@ -1,0 +1,68 @@
+body {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+header a {
+color: crimson;
+text-decoration: none;
+border: 2px solid ;
+border-radius: 29px;
+padding:5px;
+margin: 25px; 
+background-color: black;
+}
+header{
+    background-color: darkblue;
+    height: 100px;
+
+}
+header img {
+    padding:5px;
+margin: 15px
+}
+h1 {
+color: darkmagenta;
+text-align: center;
+border: 1px solid wheat;
+background-color: tomato;
+border-radius: 39px
+}
+footer{
+   background-color: black;
+   color: white;
+
+}
+footer p {
+    border: 1px solid lawngreen;
+}
+.qwerty {
+text-decoration: none;
+background-color: black;
+border: 1px solid khaki;
+margin: 2px;
+border-radius: 30px;
+padding: 3px;
+
+}
+nav a{
+    text-decoration: none;
+ background-color: gold;
+ border: 2px solid maroon;
+}
+.fd {
+    border: 2px solid firebrick;
+    background-color: firebrick;
+ 
+}
+main {
+    margin: 10px;
+}
+h2 {
+    background-color: gold;
+    color: green;
+}
+ .mmm {
+    text-decoration: none;
+    color: yellowgreen;
+}
+
